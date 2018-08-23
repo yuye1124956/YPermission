@@ -1,0 +1,11 @@
+<resources>
+    <style name="translucent" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="android:windowIsFloating">true</item>
+        <!--背景是否模糊显示，为false时效果为全透明-->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+</resources>
