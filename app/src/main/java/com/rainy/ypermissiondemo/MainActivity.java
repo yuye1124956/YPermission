@@ -1,4 +1,4 @@
-package rainy.com.ypermissiondemo;
+package com.rainy.ypermissiondemo;
 
 import android.Manifest;
 import android.os.Bundle;
@@ -6,8 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
-import rainy.com.ypermission.OnPermissionResult;
-import rainy.com.ypermission.YPermission;
+import com.rainy.ypermission.OnPermissionResult;
+import com.rainy.ypermission.YPermission;
 
 public class MainActivity extends AppCompatActivity {
 

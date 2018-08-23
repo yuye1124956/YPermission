@@ -1,4 +1,4 @@
-package rainy.com.ypermission;
+package com.rainy.ypermission;
 
 import android.app.Activity;
 import android.content.pm.PackageManager;

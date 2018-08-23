@@ -1,4 +1,4 @@
-package rainy.com.ypermissiondemo;
+package com.rainy.ypermission;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("rainy.com.ypermissiondemo", appContext.getPackageName());
+        assertEquals("rainy.com.ypermission.test", appContext.getPackageName());
     }
 }

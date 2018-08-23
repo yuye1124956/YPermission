@@ -1,4 +1,4 @@
-package rainy.com.ypermissiondemo;
+package com.rainy.ypermission;
 
 import org.junit.Test;
 
