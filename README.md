@@ -1,6 +1,6 @@
 # YPermission  
 动态权限  
-#### Step 1. Add the JitPack repository to your build fi
+#### Step 1. Add the JitPack repository
 ```
 allprojects {
 		repositories {
